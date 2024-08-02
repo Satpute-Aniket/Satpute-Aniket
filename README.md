@@ -7,11 +7,6 @@ Skills:
 - 🧠 Machine Learning & AI (Scikit-Learn, LangChain)
 - 🗃️ Databases (SQL, vector DB) 
 
-- 🔭 I’m currently working on my master thesis, which revolves around fine-tuning a Retrieval-Augmented Generation (RAG) model that I created during my internship. The RAG model extracts critical information from unstructured pdfs in real time. 
-- 🌱 I’m currently learning M.Sc. in Data Analytics and Decision Science at RWTH Aachen University. 
-- 👯 I’m looking to collaborate on projects utilising any new, cutting-edge technologies in Data Analytics and Machine Learning as I love to learn about some new stuff. 
-- ⚡ Fun fact: I can cook really well, and I am always up to try new cuisines!
-
 ✨ Projects:
 - RAG application for document Review
 - 3-D Bin Packing problem
