@@ -11,7 +11,7 @@ Skills:
 - RAG application for document Review
 - 3-D Bin Packing problem
 
-![](https://github.com/Satpute-Aniket/Satpute-Aniket/blob/main/90uxmh.gif)
+  ![](https://github.com/Satpute-Aniket/Satpute-Aniket/blob/main/90uxmh.gif)
 
 📫 Contact:
 - Email: satpute.s.aniket@gmail.com
