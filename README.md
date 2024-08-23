@@ -25,7 +25,8 @@ I'm a passionate data scientist with a background in mechanical engineering and 
 
   We implemented a Mixed Integer Programming (MIP) model for the optimal assignment of items to containers, ensuring that items do not overlap, that weight and volume constraints are respected, and that the packing configuration minimizes unused space. Additionally, we employed heuristic methods to manage large-scale problems where exact methods are impractical. By combining rigorous data engineering, exploratory data analysis, and innovative optimization techniques, we achieved a cost-efficient solution with a packing efficiency of 95.62%, processing 2,386 items into 135 containers.
 
-  #### Technologies used 💻 :
+  #### Libraries used : Matplotlib, Padas, Numpy, mpl_toolkits, gurobipy.
+  #### Technologies used 💻 : Optimization, Heuristics, Data Analysis, Data Engineering, Python, Visual Studio Code.
 
 - ### Prediction of health expenses incurred by insurances [↗️]()
 
@@ -35,9 +36,8 @@ I'm a passionate data scientist with a background in mechanical engineering and 
 
   The primary regression metric used for evaluating model performance is the Mean Squared Error (MSE). Additionally, we will provide visualizations of residual plots to further assess the model's accuracy and reliability.
 
-  #### Technologies used 💻 :
-
-  #### Reference 📑 : https://scikit-learn.org/stable/modules/model_evaluation.html#regression-metrics
+  #### Libraries used : scikit-learn, seaborn, Padas, Numpy.
+  #### Technologies used 💻 : Machine Learning, Python, Google Colab.
   
 ## Contact 📫:
 - Email :email: : satpute.s.aniket@gmail.com
@@ -45,3 +45,7 @@ I'm a passionate data scientist with a background in mechanical engineering and 
 >[!Tip]
 >The Linkedin logo is clickable!
     
+>[!IMPORTANT]
+>I am currently looking for a job and if you like what you see and find my skills and resources useful do not hesitate to reach out to me via LinkedIN or E-mail for further discussions.
+>Thank you!
+>  Link to my [Resume](). 
