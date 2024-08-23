@@ -28,7 +28,7 @@ I'm a passionate data scientist with a background in mechanical engineering and 
   #### Libraries used : Matplotlib, Padas, Numpy, mpl_toolkits, gurobipy.
   #### Technologies used 💻 : Optimization, Heuristics, Data Analysis, Data Engineering, Python, Visual Studio Code.
 
-- ### Prediction of health expenses incurred by insurances [↗️]()
+- ### Prediction of health expenses incurred by insurances [↗️](https://github.com/Satpute-Aniket/Health-insurance-prediction)
 
   In this project, we begin with a comprehensive initial data exploration, aiming to identify and report all interesting and relevant insights that will guide the construction of our model. The data is presented through concise textual descriptions, tables, and plots, ensuring that the findings are both informative and actionable.
 
