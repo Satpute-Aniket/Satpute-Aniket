@@ -30,6 +30,8 @@ I'm a passionate data scientist with a background in mechanical engineering and 
 
 - ### Prediction of health expenses incurred by insurances [↗️](https://github.com/Satpute-Aniket/Health-insurance-prediction)
 
+  ![](https://github.com/Satpute-Aniket/Satpute-Aniket/blob/main/ezgif.com-animated-gif-maker.gif)
+
   In this project, we begin with a comprehensive initial data exploration, aiming to identify and report all interesting and relevant insights that will guide the construction of our model. The data is presented through concise textual descriptions, tables, and plots, ensuring that the findings are both informative and actionable.
 
   We will compare and demonstrate the correct application of various model selection methodologies, evaluating their performance systematically. Our approach includes careful consideration of hyperparameters, explaining the model selection procedure and the rationale behind the chosen values. We will explore multiple hyperparameter configurations, with the assumption that we have access to extensive computational resources, particularly for hyperparameter tuning.
