@@ -50,4 +50,4 @@ I'm a passionate data scientist with a background in mechanical engineering and 
 >[!IMPORTANT]
 >I am currently looking for a job and if you like what you see and find my skills and resources useful do not hesitate to reach out to me via LinkedIN or E-mail for further discussions.
 >Thank you!
->  Link to my [Resume](). 
+>  Link to my [Resume](https://github.com/Satpute-Aniket/Satpute-Aniket/blob/main/Aniket_CV.pdf). 
