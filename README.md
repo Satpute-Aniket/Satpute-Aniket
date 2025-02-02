@@ -10,12 +10,9 @@ I'm a passionate data scientist with a background in mechanical engineering and 
 ## Projects ✨:
 - ### RAG application for document Review [↗️]()
 
-  
+  This project is part of my Master’s Thesis, where I developed a fine-tuned Retrieval-Augmented Generation (RAG) pipeline to automate and enhance the processing of Informed Consent Forms (ICFs) in clinical trials. The goal is to reduce manual review time, and improve document analysis accuracy using RAG techniques. This project is part of my Master’s Thesis, where I developed a fine-tuned Retrieval-Augmented Generation (RAG) pipeline to automate and enhance the processing of Informed Consent Forms (ICFs) in clinical trials. The goal is to streamline regulatory compliance, reduce manual review time, and improve document analysis accuracy using cutting-edge Natural Language Processing (NLP) techniques.
 
-  #### Technologies used 💻 :
-
->[!Note]
-  >This project is part of my Master's Thesis and will be uploaded as soon as it is ready. Sorry for the inconvinience😄
+  #### Technologies used 💻 : Python, Jupyter Notebook, LLM, RAG, Fine-tuning, Data engineering, Azure openai embeddings, RAGAS.
   
 - ### 3-D Bin Packing problem [↗️](https://github.com/Satpute-Aniket/3DPacking)
 
