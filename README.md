@@ -8,7 +8,7 @@ I'm a passionate data scientist with a background in mechanical engineering and 
 - 🗃️ Databases (SQL, vector DB) 
 
 ## Projects ✨:
-- ### RAG application for document Review [↗️]()
+- ### RAG application for document Review [↗️](https://github.com/Satpute-Aniket/Thesis)
 
   This project is part of my Master’s Thesis, where I developed a fine-tuned Retrieval-Augmented Generation (RAG) pipeline to automate and enhance the processing of Informed Consent Forms (ICFs) in clinical trials. The goal is to reduce manual review time, and improve document analysis accuracy using RAG techniques. This project is part of my Master’s Thesis, where I developed a fine-tuned Retrieval-Augmented Generation (RAG) pipeline to automate and enhance the processing of Informed Consent Forms (ICFs) in clinical trials. The goal is to streamline regulatory compliance, reduce manual review time, and improve document analysis accuracy using cutting-edge Natural Language Processing (NLP) techniques.
 
